@@ -39,23 +39,23 @@ http://www.hiliu.myds.me:8088/rtp/239.69.1.249:11136
 http://123.113.98.224:4022/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-name="北京卫视HD" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="BRTV",北京卫视HD
 http://123.113.98.224:4022/rtp/239.3.1.241:8000
-#EXTINF:-1 tvg-name="新闻HD" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="BRTV",新闻HD
+#EXTINF:-1 tvg-name="新闻HD" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="BRTV",新闻HD
 http://123.113.98.224:4022/rtp/239.3.1.159:8000
-#EXTINF:-1 tvg-name="影视HD" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="BRTV",影视HD
+#EXTINF:-1 tvg-name="影视HD" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="BRTV",影视HD
 http://123.113.98.224:4022/rtp/239.3.1.158:8000
-#EXTINF:-1 tvg-name="文艺HD" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="BRTV",文艺HD
+#EXTINF:-1 tvg-name="文艺HD" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="BRTV",文艺HD
 http://123.113.98.224:4022/rtp/239.3.1.242:8000
-#EXTINF:-1 tvg-name="财经HD" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="BRTV",财经HD
+#EXTINF:-1 tvg-name="财经HD" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="BRTV",财经HD
 http://123.113.98.224:4022/rtp/239.3.1.116:8000
-#EXTINF:-1 tvg-name="生活HD" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="BRTV",生活HD
+#EXTINF:-1 tvg-name="生活HD" tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="BRTV",生活HD
 http://123.113.98.224:4022/rtp/239.3.1.117:8000
-#EXTINF:-1 tvg-name="青年HD" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="BRTV",青年HD
+#EXTINF:-1 tvg-name="青年HD" tvg-logo="https://live.fanmingming.com/tv/北京青年.png" group-title="BRTV",青年HD
 http://123.113.98.224:4022/rtp/239.3.1.236:2000
-#EXTINF:-1 tvg-name="纪实科教HD" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="BRTV",纪实科教HD
+#EXTINF:-1 tvg-name="纪实科教HD" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="BRTV",纪实科教HD
 http://123.113.98.224:4022/rtp/239.3.1.115:8000
-#EXTINF:-1 tvg-name="卡酷少儿HD" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="BRTV",卡酷少儿HD
+#EXTINF:-1 tvg-name="卡酷少儿HD" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="BRTV",卡酷少儿HD
 http://123.113.98.224:4022/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-name="体育休闲HD" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="BRTV",体育休闲HD
+#EXTINF:-1 tvg-name="体育休闲HD" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="BRTV",体育休闲HD
 http://123.113.98.224:4022/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-name="国际频道HD" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="BRTV",国际频道HD
 http://123.113.98.224:4022/rtp/239.3.1.235:8000
