@@ -33,6 +33,8 @@ http://123.113.98.224:4022/rtp/239.3.1.65:8132
 http://123.113.98.224:4022/rtp/239.3.1.153:8136
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
 http://123.113.98.224:4022/rtp/239.3.1.184:8001
+#EXTINF:-1 tvg-name="CCTV16-4K" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克4K
+http://www.hiliu.myds.me:8088/rtp/239.69.1.249:11136
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://123.113.98.224:4022/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-name="北京卫视HD" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="BRTV",北京卫视HD
